@@ -1,4 +1,6 @@
 """Some simple tests"""
+#simple calculations
+
 from numpy.testing import assert_allclose
 
 

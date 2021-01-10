@@ -1,3 +1,6 @@
+#add  a message for fun
+Hi there! This shows you how to integrate travis into your workflow.
+
 # Travis Python Template
 
 [![build status](http://img.shields.io/travis/claracheong88/travis-python-template/master.svg?style=flat)](https://travis-ci.com/github/claracheong88/travis-python-template)
