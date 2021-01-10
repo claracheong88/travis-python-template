@@ -16,3 +16,6 @@ def test_multiplication():
 
 def test_floating_addition():
     assert_allclose(0.1 + 0.2, 0.3)
+
+def test_division():
+    assert 10 / 5 == 2
