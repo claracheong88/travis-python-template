@@ -19,3 +19,6 @@ def test_floating_addition():
 
 def test_division():
     assert 10 / 5 == 2
+
+def test_sumproduct():
+    assert (5+5)*10 == 100
